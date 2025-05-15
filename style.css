@@ -37,9 +37,44 @@ body{
     display: none;
 }
 
+.sidenav{
+    background-color: #1d232c;
+    width: 50%;
+    height: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0;
+    padding: 20px;
+    color: white;
+}
+
+.side-nav-link{
+    margin-bottom: 30px;
+
+}
+
+ .side-nav-link a{
+    text-decoration: none;
+    color: antiquewhite;
+    transition: 500ms;
+}
+
+ .side-nav-link a:hover{
+    text-decoration: underline;
+    font-size: 120%;
+ }
+
+
+
+
+
+
+
+
+
 /* Media Query*/
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:700px) {
     .nav-menuico{
         display: block;
     }
@@ -47,3 +82,4 @@ body{
         display: none;
     }
 }
+
