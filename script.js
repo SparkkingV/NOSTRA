@@ -2,9 +2,9 @@ var sidenav= document.querySelector(".sidenav")
 
 function shownav()
 {
-    sidenav.style.display="block"
+    sidenav.style.left="0"
 }
 
 function hidenav(){
-    sidenav.style.display="none"
+    sidenav.style.left="-60%"
 }
