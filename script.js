@@ -1,5 +1,10 @@
-var side0nav= document.querySelector(".sidenav")
+var sidenav= document.querySelector(".sidenav")
 
-function shownav(){
-    side0nav.style.display="block"
+function shownav()
+{
+    sidenav.style.display="none"
+}
+
+function hidenav(){
+
 }
