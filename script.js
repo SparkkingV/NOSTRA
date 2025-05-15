@@ -6,5 +6,5 @@ function shownav()
 }
 
 function hidenav(){
-    sidenav.style.left="-60%"
+    sidenav.style.left="-70%"
 }
