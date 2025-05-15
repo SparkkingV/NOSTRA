@@ -1,5 +1,5 @@
-var sidenav= document.querySelector(".sidenav")
+var side0nav= document.querySelector(".sidenav")
 
 function shownav{
-    sidenav.style.display="block"
+    side0nav.style.display="block"
 }
