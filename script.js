@@ -1,5 +1,5 @@
 var side0nav= document.querySelector(".sidenav")
 
-function shownav{
+function shownav(){
     side0nav.style.display="block"
 }
