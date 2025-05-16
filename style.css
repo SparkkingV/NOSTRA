@@ -47,6 +47,7 @@ body{
     padding: 20px;
     color: white;
     transition: 1s;
+    z-index: 1;
 }
 
 .side-nav-link{
