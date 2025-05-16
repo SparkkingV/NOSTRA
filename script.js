@@ -8,3 +8,7 @@ function shownav()
 function hidenav(){
     sidenav.style.left="-70%"
 }
+
+
+
+

@@ -129,7 +129,9 @@ body{
     border-radius: 10px;
 }
 
-
+.gallery{
+    display: none;
+}
 
 
 
